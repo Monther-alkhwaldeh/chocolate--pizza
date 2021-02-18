@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+}
+
+header{
+}
+header div ul{
+    text-decoration: none;
+    list-style: none;
+    margin-top: 20px;
+}
+header div ul li {
+    float: left;
+    margin-left: 20px;
+}
+header div ul li h3{
+    margin-top: 5px;
+    position: relative;
+    font-family: 'Reggae One', cursive;
+}
+header div ul li h3 em{
+    font-size: 10px;
+}
+header nav ul {
+    list-style: none;
+}
+header nav ul li {
+text-decoration: none;
+float: right;
+margin-top: 10px;
+}
+header nav{
+margin-top: 30px;
+}
+hr {
+    margin-top: 60px;
+    border: 0;
+box-shadow: 0 0 10px 1px black;
+}
+main div ul {
+    list-style: none;
+}
+main div ul li em{
+    margin-left: 130px;
+    margin-top: 130px;
+
+}
+main nav h2{
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 100px;
+    float: left;
+    line-height: 0.5;
+    font-family: 'Reggae One', cursive;
+
+}
+main nav h2 em {
+    font-size: 15px;
+    margin-left: 30px;
+}
+main nav img {
+    width: 30px;
+    float: right;
+    margin-right: 60px;
+}
+main div ul li em img {
+    position: relative;
+    width: 70%;
+    margin-left: 70px;    
+}
+main div ul li h3 {
+    position: relative;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.container {
+    position: relative;
+    width: 70%;
+    margin-left: 200px;
+  }
+  .container .text-block ul {
+     list-style-type: square;
+     font-size: 17px;
+  }
+  .text-block ul{
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    color: gray;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .container .text-block2 ul{
+    position: absolute;
+    bottom: 20px;
+    left: 60%; 
+    line-height: 1;;
+ }
+ #overline{
+     text-decoration: line-through;
+ }
+ footer div img {
+     float: left;
+     padding-top: 30px;
+     margin: 30px;
+ }
+ footer div h4 {
+     float: left;
+     padding-left: 30px;
+     padding-top: 30px;
+ }
+ #pizza{
+     float: right;
+     width: 80px;
+ }
+ footer img {
+     margin-top: 170px;
+ }
+ footer hr {
+    margin-top: 0px;
+    border: 0;
+box-shadow: 0 0 1px 1px black;
+ }
+ footer div p {
+     float: left;
+     margin-left: 550px;
+ }
+ footer div h4 em {
+     font-size: 15px;
+ }
+ footer div h4{
+     font-weight: bold;
+     font-size: 20px;
+ }
